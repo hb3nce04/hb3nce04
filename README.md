@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on backend web development with AWS, and<br>🌱 I’m also learning Angular for frontend development.<br>👨‍💻 You can check out all of my projects here
+🔭 I am currently working on backend web development and learning cloud technologies with AWS<br>🌱 I’m also exploring Angular to enhance my frontend skills<br>💬 Feel free to ask me about anything web-related<br>👨‍💻 Check out all of my projects
 
 
 ## 🌐 Socials:
